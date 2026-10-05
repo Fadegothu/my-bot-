@@ -1,0 +1,66 @@
+{
+    "TOKEN": "MTU1NDUzNTkxNjQxNDk2MzcxMg.GiNbVU.3jCHgsvzBtufHyV8uiFUTQQ1qeK1Eg5jbpGRMU",
+    "BOT_NAME": "Tallahassee Automations",
+    "MONGO_URI": "",
+    "APP_ID": "1554535916414963712",
+    "GUILD_ID": "1452671275381166205",
+    "ERLC_API": null,
+    "ERLC_BASEURL": "https://api.policeroleplay.community/v1",
+    "TICKET_CATEGORY_IDS": {
+        "general-support": "1556143789750624287",
+        "management": "1556143790761320543",
+        "staff-report": "1556143790761320543",
+        "department-support": "1556147296704532525"
+    },
+    "TICKET_SYSTEM_ENABLED": true,
+    "TICKET_STAFF_ROLE_IDS": [
+        "1556143711270998016"
+    ],
+    "FAQ": [
+        {
+            "value": "join-department",
+            "label": "How do I join a department?",
+            "description": "Department applications and requirements",
+            "answer": "To join a department, check the department information and application channels for available applications. Make sure you meet the department's requirements before applying."
+        },
+        {
+            "value": "become-staff",
+            "label": "How do I become staff?",
+            "description": "Hiring and staff applications",
+            "answer": "Staff applications are opened when Tallahassee Roleplay is hiring. Check the staff announcements for current requirements and application instructions. Applicants may also be required to complete an interview."
+        },
+        {
+            "value": "appeal-ban",
+            "label": "How do I appeal a ban or blacklist?",
+            "description": "Appeal process and required information",
+            "answer": "If you believe a ban or blacklist was issued incorrectly, you can submit an appeal through the appropriate support system. Include your username, the action taken, and a clear explanation for why you believe it should be reconsidered."
+        },
+        {
+            "value": "report-player",
+            "label": "How do I report a player?",
+            "description": "Report player incidents",
+            "answer": "Submit a player report through the support system. Include the player's username, what happened, when it happened, and any available evidence such as screenshots or recordings."
+        },
+        {
+            "value": "report-staff",
+            "label": "How do I report a staff member?",
+            "description": "Report staff misconduct",
+            "answer": "If you believe a staff member violated the rules or abused their position, submit a staff report through the support system. Include the staff member's username, what happened, and any available evidence."
+        },
+        {
+            "value": "join-session",
+            "label": "How do I join a session?",
+            "description": "Session announcements and instructions",
+            "answer": "Session announcements will be posted in the designated session or announcement channels. Follow the instructions provided by the session host when a session is announced."
+        },
+        {
+            "value": "server-rules",
+            "label": "Where can I find the server rules?",
+            "description": "Rule channel and information links",
+            "answer": "The official Tallahassee Roleplay rules can be found in the designated rules or information channel. All members are expected to read and follow the rules before participating."
+        }
+    ],
+    "TICKET_PANEL_BANNER_URL": "",
+    "TICKET_TICKET_BANNER_URL": "",
+    "COOKIE": "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_5F9AC3E395FD41779527AC3B6B1ADDFA7ED92CBE8A988283F738CA18E273C31A066FA27B6CD31C766AFF6563938BA09F2F62B024C8346236EA87A5FCE9AC0B6F99EE4D0D526B7E3CD474C74824E4A586E15BC59C669C6B98CDC3D058EDC31B3005D27E9F37F6754F875F64EB3A3E5D19C5E1B845BFD236A594B58D588E7AC70232ABF227EA197481463AF33C1F1CD53C78E88108DA28A39691EC10B4B1EA9D164443C6884AB8EFAC6A4B8F148A6D28D4885B9382CB2BFAC26230B5712CBA115E5B94E6F4B64852ADF46DA5B22380CED6744D349F582BAC0B59F90D7FB6D70B3B7EA60E9EF0EF1AD97729392EEA171133E3CB75A9CDDE6B21DA91CF45D7781893174BE5D0E7FEA6BF174846190A06B60DC94154C83E1E2EC865324343741B3CC0017F25FDA963BB9F87D4BC801B463EBFC8D29AD29D75756C04410F1BA312745FF1C3DF75C89C9215B6810A17D4F56581930D789BCCCCF4B17A2F70DFB8D8376C6D557ECD1520BAE1C9958BD798A5080D7D3907342FA9C240C7E4755210CAF3675558BC8E188112974BB88F0EADD1C5353F0A4D4CAC26F88C3CB7DB94B2E5057D6620409874B26537C06352E1E1342064D5AC487CC9C71EB00FCC29D9446A58719FBFF392C47585B5BBA7579EF5BF13A60190E8EFDE7F9C267A04FCD0C9F311D5525CD1146B4A8A30066F2B586788A8ED0302444044198FF6CCC6CCBF0C95D60264FC5B639504D89D19D0D6AE7CCF55705CC9F10836220AEF01156E0FE75DBB826A2E29638AA71F3143ECE73CBD9FA54A662703C27727F38AF052AAA29813EB3833FA4AC207264224F304F53A2700CAE905375F8CE0108E51CD8B91978476B17F2BE23EB71A0C793F20FFC176C4E15554B15199B371E09136A1DA0DCD28A7113FC1741000DEE6E81399ED70EC7F3CFD018E16610F"
+}
